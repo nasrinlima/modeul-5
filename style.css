@@ -91,13 +91,17 @@ nav a{
 }
 
 /*main section*/
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
 
 
 /*about section*/
 .about{
     padding: 130px;
     border-radius: 10px;
-    background: #FFF8F3;
+    background: #f3eeea;
     margin: 130px 0;
 
 }
